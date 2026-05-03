@@ -1,0 +1,195 @@
+You are a senior WordPress architect, full-stack developer, and UI/UX expert.
+You have full access to my local WordPress installation.
+Your task is to build a COMPLETE, WORKING, PRODUCTION-READY eCommerce website from scratch.
+-------------------------------------
+IMPORTANT RULES:
+- Build everything step by step automatically
+- If any error occurs, fix it immediately in code
+- Do not leave incomplete sections
+- Do not use placeholder or broken layouts
+-------------------------------------
+PROJECT:
+Spark Vibe Store
+Luxury Artificial Jewelry Store
+-------------------------------------
+GOAL:
+Create a fully functional online store with:
+- Custom WordPress theme
+- WooCommerce fully working
+- Elementor-based design
+- Fully responsive layout
+- Ready-to-use products
+- Working checkout system
+
+-------------------------------------
+
+STEP 1: SYSTEM SETUP
+
+Install and configure:
+- WooCommerce
+- Elementor
+- Basic contact form plugin
+
+Create pages:
+- Home
+- Shop
+- Cart
+- Checkout
+- My Account
+- About
+- Contact
+
+-------------------------------------
+
+STEP 2: THEME CREATION
+
+Create custom theme:
+wp-content/themes/spark-vibe-store
+
+Include all required files:
+- style.css
+- functions.php
+- index.php
+- header.php
+- footer.php
+- front-page.php
+- page.php
+- single.php
+
+Theme must:
+- Work with Elementor
+- Support WooCommerce
+- Be lightweight and fast
+
+-------------------------------------
+
+STEP 3: DESIGN (IMPORTANT)
+
+Design style:
+- Luxury jewelry brand
+- Colors: gold, white, soft pink, dark accents
+- Clean layout
+- Professional spacing
+- Modern typography
+
+-------------------------------------
+
+STEP 4: HOMEPAGE
+
+Create full homepage with:
+
+- Hero section (banner + CTA)
+- Featured products
+- Categories (rings, necklaces, earrings, bracelets)
+- Best sellers
+- Testimonials
+- Why choose us
+- Newsletter
+- Footer
+
+All sections must be filled (no empty areas)
+
+-------------------------------------
+
+STEP 5: WOOCOMMERCE SETUP
+
+- Currency: USD
+- Enable guest checkout
+- Shipping:
+  - Free shipping
+  - Flat rate
+
+Ensure:
+- Product grid works
+- Product pages work
+- Cart works
+- Checkout works
+
+-------------------------------------
+
+STEP 6: PRODUCTS
+
+Create 20–25 demo products:
+- Jewelry items
+- Realistic names
+- Prices
+- Categories
+- Images (auto from Unsplash/Pexels)
+
+-------------------------------------
+
+STEP 7: CHECKOUT FIX
+
+- Set default country: Pakistan (PK)
+- Must be editable by user
+- Ensure checkout is fully working and mobile friendly
+
+-------------------------------------
+
+STEP 8: ORDER SYSTEM
+
+- Email sent to admin on new order
+- Email sent to customer on order confirmation
+- Include order details in emails
+
+Create structure for:
+- SMS/WhatsApp notification (API-ready, not required to fully activate)
+
+-------------------------------------
+
+STEP 9: RESPONSIVE DESIGN (CRITICAL)
+
+Fix ALL responsiveness issues:
+
+- Mobile (320px+)
+- Tablet
+- Desktop
+
+Ensure:
+- No horizontal scroll
+- Proper stacking of sections
+- Readable fonts
+- Proper image scaling
+- Checkout fully responsive
+
+-------------------------------------
+
+STEP 10: FOOTER
+
+Create premium footer:
+
+- Dark background
+- Gold headings
+- Clean layout
+- 4 columns:
+  - About
+  - Links
+  - Support
+  - Social
+
+Must be fully responsive and polished
+
+-------------------------------------
+
+STEP 11: PERFORMANCE
+
+- Optimize CSS and JS
+- Lazy load images
+- Remove unused code
+- Improve speed
+
+-------------------------------------
+
+FINAL CONDITION:
+
+At the end:
+
+✔ Website must be fully working  
+✔ WooCommerce fully functional  
+✔ Checkout working  
+✔ Responsive on all devices  
+✔ No broken layouts  
+✔ No empty sections  
+✔ No errors  
+
+If any issue appears, fix it automatically and continue until complete.
